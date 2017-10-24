@@ -1,0 +1,57 @@
+body {
+  /*outline: 1px solid green;*/
+  height: 500px;
+  font-family: monospace;
+}
+
+.a{
+  float: left;
+
+}
+
+.first{
+ /*outline: 1px solid blue;*/
+ height: 180px
+
+}
+
+.second {
+  /*outline: 1px solid yellow;*/
+  width:600px;
+  height: 180px;
+  margin-right:10px;
+  }
+
+li {
+  margin-left: 30px
+    }
+.linea{
+  background: #696969;
+  width: 136px;
+  height: 6px;
+}
+
+ol {
+   text-decoration: none;
+   list-style: none;
+    }
+h1{
+  color: 	#696969;
+}
+
+ img{
+   width: 150px;
+   height: 150px;
+   position: relative;
+   right: 70px;
+
+    }
+ p{
+   /*outline: 1px solid red;*/
+   position: relative;
+   right: 30px;
+   bottom: 38px;
+   color: #fff;
+   font-size: 12px;
+
+ }
