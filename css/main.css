@@ -5,7 +5,15 @@ body {
 }
 
 .a{
+  /*Le damos float indicando que luestros elementos
+  se vayen a la izquierda mas posible*/
   float: left;
+}
+
+.a:hover{
+  /* esta propiedad permitira agrandar al imagen justo en el
+  momento que el cursor pase por el*/
+  transform: scale(1.4);
 
 }
 
